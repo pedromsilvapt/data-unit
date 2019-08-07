@@ -1,0 +1,24 @@
+{
+  "name": "@pedromsilva/data-unit",
+  "version": "0.1.0",
+  "description": "Simple TypeScript/ES2017 classes to represent unit values (like time/data size)",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "repository": "pedromsilvapt/data-unit",
+  "keywords": [
+    "js",
+    "immutable",
+    "data",
+    "values",
+    "container",
+    "duration",
+    "time",
+    "data",
+    "size"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro M. Silva <pemiolsi@hotmail.com>",
+  "license": "ISC"
+}
